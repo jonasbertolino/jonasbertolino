@@ -2,7 +2,7 @@
 ### Bem-vindo ao meu perfil no GitHub
 
 - 🔭 Atualmente estou trabalhando na BASSolutions como responsável pela área de desenvolvimento de software.
-- 🌱 Estou aprendendo sobre arquitetura de softwares, JAVA e Python.
+- 🌱 Estou desenvolvendo soluções com Java e Spring.
 - 📫 Para entrar em contato comigo, mande um e-mail para: eu@jonasbertolino.com
 
 <!--div>
