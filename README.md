@@ -1,8 +1,9 @@
 # Olá, meu nome é Jonas Bertolino!
 ### Bem-vindo ao meu perfil no GitHub
 
-- 🔭 Atualmente estou trabalhando na BASSolutions como responsável pela área de desenvolvimento de software.
-- 🌱 Estou desenvolvendo soluções com Java e Spring.
+- 🔭 Trabalho na Lxtech na área de desenvolvimento de software.
+- 🔭 E, responsável pela área de desenvolvimento de software na BASSolutions.
+- 🌱 Desenvolvo soluções utiliznando Java e Spring.
 - 📫 Para entrar em contato comigo, mande um e-mail para: eu@jonasbertolino.com
 
 <!--div>
